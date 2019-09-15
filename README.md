@@ -7,4 +7,4 @@ This little program takes the images of a directiory and creates a markdown or h
 
 The idea would be something like this:
 
-![images-to-markdown idea](<img src="https://docs.google.com/drawings/d/e/2PACX-1vSA00vs0JeDQn01tRRne0Z9ROCkGHZS1gwIGr-mbsU8Z28gPqaZb6oWd1V520aw1nYXnY4L7qQMcd5I/pub?w=960&amp;h=720">)
+![images-to-markdown idea](https://docs.google.com/drawings/d/e/2PACX-1vSA00vs0JeDQn01tRRne0Z9ROCkGHZS1gwIGr-mbsU8Z28gPqaZb6oWd1V520aw1nYXnY4L7qQMcd5I/pub?w=960&amp;h=720)
