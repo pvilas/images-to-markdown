@@ -8,9 +8,9 @@ The idea would be something like this:
 
 ![images-to-markdown idea](https://docs.google.com/drawings/d/e/2PACX-1vSA00vs0JeDQn01tRRne0Z9ROCkGHZS1gwIGr-mbsU8Z28gPqaZb6oWd1V520aw1nYXnY4L7qQMcd5I/pub?w=960&amp;h=720)
 
-The `i2m.py` options are:
+The `vd.py` options are:
 ```
-usage: i2m.py [-h] [-d DIRECTORY] [-t TEMPLATE] [-o OUTPUT]
+usage: vd.py [-h] [-d DIRECTORY] [-t TEMPLATE] [-o OUTPUT]
               [-u IMAGE_BASE_URL] [-g TAGS] [-s SOURCE]
 
 Creates a document from a list of images
