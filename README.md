@@ -1,10 +1,8 @@
-# images-to-markdown
+# video-documenter
 
 This tool takes a list of images and create a markdown or html page with the file names.
 
 I like watching martial arts, pilates or other educational videos. I document the techiques by taking snapshots from the videos and saving them with a description of what is happening in the action.
-
-This little program takes the images of a directiory and creates a markdown or html file with the contents.
 
 The idea would be something like this:
 
@@ -34,7 +32,7 @@ optional arguments:
                         Source of the video
 ```
 
-and an example
+An example could be to document [this](https://www.youtube.com/watch?v=5uuU0LfsZOY) technique:
 
 ```
 python i2m.py -d "/Users/pvilas/Desktop/armbar from mount/" -u "/images/jujutsu/2019-09-15-armbar/" -o git -g
@@ -42,3 +40,5 @@ python i2m.py -d "/Users/pvilas/Desktop/armbar from mount/" -u "/images/jujutsu/
 ```
 
 Generates [this](http://pvilas.com/2019/09/Armbar-from-mount.html) page.
+
+My personal blog is on github pages so, by default, the output aims to these platform (Jekyll). You can force this output format using the `-o git` argument.
