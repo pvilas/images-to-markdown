@@ -35,7 +35,7 @@ optional arguments:
 An example could be to document [this](https://www.youtube.com/watch?v=5uuU0LfsZOY) technique:
 
 ```
-python i2m.py -d "/Users/pvilas/Desktop/armbar from mount/" -u "/images/jujutsu/2019-09-15-armbar/" -o git -g
+python vd.py -d "/Users/pvilas/Desktop/armbar from mount/" -u "/images/jujutsu/2019-09-15-armbar/" -o git -g
  "jujutsu, armbar" -s "[Draculino: Arm Bar from Mount Position](https://www.youtube.com/watch?v=5uuU0LfsZOY)"
 ```
 
